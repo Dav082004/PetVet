@@ -17,7 +17,7 @@ Sigue los pasos a continuación para importar y configurar la base de datos que 
 1. **Inicia XAMPP** y asegúrate de que el servidor MySQL esté en ejecución.
 2. **Importa la Base de Datos**:
    - Abre tu navegador e ingresa a `http://localhost/phpmyadmin/`.
-   - Crea una nueva base de datos llamada **`petvet`** (o el nombre especificado en el código).
+   - Crea una nueva base de datos llamada **`bd_clinica`** (o el nombre especificado en el código).
    - Dirígete a la pestaña **Importar** y selecciona el archivo SQL ubicado en la carpeta `BD` de este proyecto.
    - Ejecuta la importación para cargar las tablas y datos requeridos en el servidor MySQL.
 
