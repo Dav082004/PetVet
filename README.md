@@ -1,4 +1,4 @@
-# Sistema de Gestión para Veterinaria "PetVet"
+# 🐶 Sistema de Gestión para Veterinaria "PetVet" 🐶
 
 Este repositorio contiene un sistema desarrollado en Java que permite a la veterinaria "PetVet" gestionar de manera eficiente los registros de pacientes, la programación de citas, el seguimiento de tratamientos, y la gestión de historias clínicas. Este sistema resuelve los problemas actuales de PetVet, que depende de procesos manuales y registros en papel, agilizando la atención y mejorando la experiencia de los clientes y sus mascotas.
 
